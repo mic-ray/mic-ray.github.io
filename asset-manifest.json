@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ddbe6ce.css",
+    "main.js": "/static/js/main.e22dca8d.js",
+    "static/js/787.6ab292da.chunk.js": "/static/js/787.6ab292da.chunk.js",
+    "static/media/email-icon.png": "/static/media/email-icon.854d18677914b33576c3.png",
+    "index.html": "/index.html",
+    "main.3ddbe6ce.css.map": "/static/css/main.3ddbe6ce.css.map",
+    "main.e22dca8d.js.map": "/static/js/main.e22dca8d.js.map",
+    "787.6ab292da.chunk.js.map": "/static/js/787.6ab292da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ddbe6ce.css",
+    "static/js/main.e22dca8d.js"
+  ]
+}
